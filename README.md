@@ -9,7 +9,7 @@ Windows environment for C / C++ programming
 
 ## Install
 Navigate with file explorer to the folder where the repository was cloned and then run `install.bat` as administrator
-```sh
+```batch
 git clone https://github.com/cipher0xdev/windows-environment-cpp.git
 cd windows-environment-cpp
 explorer .
