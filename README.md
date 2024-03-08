@@ -1,5 +1,5 @@
 # windows-environment-cpp
-Windows environment installer &amp; configurator for C / C++ programming using vim and mingw32
+Windows environment for C / C++ programming
 
 ## Dependencies
 ### Git
@@ -8,6 +8,9 @@ Windows environment installer &amp; configurator for C / C++ programming using v
   - [Download Git 2.44 - 32 bits](https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-32-bit.exe)
 
 ## Install
-Run `install.bat`as administrator to check and install what is needed for the development environment
-
-
+Navigate with file explorer to the folder where the repository was cloned and then run `install.bat` as administrator
+```sh
+git clone https://github.com/cipher0xdev/windows-environment-cpp.git
+cd windows-environment-cpp
+explorer .
+```
